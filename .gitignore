@@ -10,3 +10,5 @@ layout.css
 layout.css.map
 .DS_STORE
 bin
+.idea
+*.iml
